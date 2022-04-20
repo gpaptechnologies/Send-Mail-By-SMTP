@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\bin\SendMailBySMTP.dll.config
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\bin\SendMailBySMTP.dll
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\bin\SendMailBySMTP.pdb
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\obj\Debug\SendMailBySMTP.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\obj\Debug\SendMailBySMTP.dll
+C:\Users\Training\Documents\Training Projects\SendMailBySMTP\SendMailBySMTP\obj\Debug\SendMailBySMTP.pdb
